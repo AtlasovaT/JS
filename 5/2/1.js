@@ -10,15 +10,18 @@ function Сountdown(seconds) {
 
 Сountdown(5);
 
-//
+// доп
 function Сountdown(seconds) {
     let current = seconds;
-
-    setTimeout(function Сountdown() {
+    if (current >= 0) {
         console.log(current);
         current--;
-        return (current >= 0) ? setTimeout(Сountdown, 1000) : console.log('Время вышло!');
-    }, 1000);
+        setTimeout(Сountdown, 1000, current);
+    } else {
+        console.log('Время вышло!');
+        clearTimeout(setTimeout(Сountdown, 1000, current));
+    }
+
 }
 
 Сountdown(5);
