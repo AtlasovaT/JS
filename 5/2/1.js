@@ -9,3 +9,16 @@ function Сountdown(seconds) {
 }
 
 Сountdown(5);
+
+//
+function Сountdown(seconds) {
+    let current = seconds;
+
+    setTimeout(function Сountdown() {
+        console.log(current);
+        current--;
+        return (current >= 0) ? setTimeout(Сountdown, 1000) : console.log('Время вышло!');
+    }, 1000);
+}
+
+Сountdown(5);

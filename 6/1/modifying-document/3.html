@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <table id="table">
+        aaa
+        <tr>
+            <td>Тест</td>
+        </tr>
+    </table>
+
+    <script>
+        alert(table); // таблица, как и должно быть
+
+        table.remove();
+        // почему в документе остался текст "ааа"??
+        // ответ: разметка составлена неправильно, внутри тега table не должно быть текста, поэтому он добавляется автоматически перед таблицей, а таблица в дальнейшем удаляется
+    </script>
+</body>
+</html>

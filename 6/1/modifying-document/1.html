@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="elem1"></div>
+    <div id="elem2"></div>
+    <div id="elem3"></div>
+    <script>
+        let text = '<b>текст</b>';
+
+        elem1.append(document.createTextNode(text)); // <b>текст</b>
+        elem2.innerHTML = text; // текст
+        elem3.textContent = text; // <b>текст</b>
+    </script>
+</body>
+</html>

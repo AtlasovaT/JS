@@ -2,7 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b80bae66-1638-47e4-9750-00232b1f03be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5/2/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/basic-dom-node-properties/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/basic-dom-node-properties/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/basic-dom-node-properties/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/basic-dom-node-properties/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/coordinates/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/coordinates/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/coordinates/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/coordinates/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/dom-attributes-and-properties/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/dom-attributes-and-properties/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/dom-navigation/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/dom-navigation/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/dom-navigation/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/dom-navigation/3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/modifying-document/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/modifying-document/10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/modifying-document/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/modifying-document/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/modifying-document/4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/modifying-document/5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/modifying-document/6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/modifying-document/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/modifying-document/8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/modifying-document/9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/searching-elements-dom/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/size-and-scroll/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/size-and-scroll/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/size-and-scroll/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/size-and-scroll/4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/1/styles-and-classes/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/2/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/2/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/5/2/1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +47,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -29,6 +62,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -42,6 +76,9 @@
       <option name="presentableId" value="Default" />
       <updated>1603636393031</updated>
       <workItem from="1603636395821" duration="6873000" />
+      <workItem from="1603907753657" duration="6903000" />
+      <workItem from="1603985076519" duration="971000" />
+      <workItem from="1604083377771" duration="11955000" />
     </task>
     <servers />
   </component>
@@ -49,9 +86,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="449" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603650694786">
+    <state x="449" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603909552502">
       <screen x="0" y="0" width="1366" height="732" />
     </state>
-    <state x="449" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.732@0.0.1366.732" timestamp="1603650694786" />
+    <state x="449" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.732@0.0.1366.732" timestamp="1603909552502" />
+    <state x="380" y="87" key="NewPhpClassDialog" timestamp="1604087672055">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="380" y="87" key="NewPhpClassDialog/0.0.1366.732@0.0.1366.732" timestamp="1604087672055" />
   </component>
 </project>
