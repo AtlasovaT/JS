@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <button id="btn">Проверка событий</button>
+    <script>
+        let button = document.getElementById('btn');
+        button.addEventListener("click", () => alert("1"));
+
+        button.removeEventListener("click", () => alert("1"));
+
+        button.onclick = () => alert(2);
+        // ответ: выведется "1" и "2", так как removeEventListener удалит событие, а onclick действует незвисимо
+    </script>
+</body>
+</html>
