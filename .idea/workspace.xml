@@ -2,35 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b80bae66-1638-47e4-9750-00232b1f03be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7/1/default-browser-action/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/default-browser-action/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/default-browser-action/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/event-delegation/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/event-delegation/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/event-delegation/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/event-delegation/4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/introduction-browser-events/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/introduction-browser-events/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/introduction-browser-events/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/introduction-browser-events/4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/introduction-browser-events/5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/introduction-browser-events/6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/introduction-browser-events/7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/keyboard-events/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/mouse-drag-and-drop/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/mouse-events-basics/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/mousemove-mouseover-mouseout-mouseenter-mouseleave/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/mousemove-mouseover-mouseout-mouseenter-mouseleave/2/hoverIntent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/mousemove-mouseover-mouseout-mouseenter-mouseleave/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/mousemove-mouseover-mouseout-mouseenter-mouseleave/2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/mousemove-mouseover-mouseout-mouseenter-mouseleave/2/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/onload-onerror/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/onscroll/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/onscroll/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/onscroll/3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/1/onscroll/3/placeholder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/3/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/1/form-elements/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/1/events-change-input/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/1/focus-blur/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/1/focus-blur/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/1/forms-submit/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/1-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +66,8 @@
       <workItem from="1604327006869" duration="4108000" />
       <workItem from="1604344711190" duration="118000" />
       <workItem from="1604422957712" duration="766000" />
-      <workItem from="1604598069061" duration="13040000" />
+      <workItem from="1604598069061" duration="13390000" />
+      <workItem from="1604692180273" duration="3020000" />
     </task>
     <servers />
   </component>
